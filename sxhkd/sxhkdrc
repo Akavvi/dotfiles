@@ -123,7 +123,7 @@ super + ctrl + {h,j,k,l}
 
 # screenshot
 ctrl + Print
-   flameshot gui 
+        flameshot gui 
 
 # change language layout
 shift + alt

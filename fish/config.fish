@@ -6,3 +6,4 @@ set -Ux FZF_DEFAULT_OPTS "--color=bg+:#302D41,bg:#1E1E2E,spinner:#F8BD96,hl:#F28
 set -Ux EDITOR nvim
 
 source (dirname (status -f))/aliases.fish
+fish_add_path /home/akavi/.spicetify

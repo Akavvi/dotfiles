@@ -21,3 +21,12 @@ QtProject.conf
 spotify/
 starship.toml
 user-dirs.dirs
+nvim/
+.gsd-keyboard.settings-ported
+dleyna-renderer-service.conf
+mimeapps.list
+selected
+user-dirs.locale
+flameshot/
+flutter/
+htop/
